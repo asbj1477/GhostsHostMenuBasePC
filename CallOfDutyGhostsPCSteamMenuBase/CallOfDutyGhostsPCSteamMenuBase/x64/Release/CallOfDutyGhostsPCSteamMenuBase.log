@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\asbj1\documents\c++\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\memory.h(163): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'LONG'
+c:\users\asbj1\documents\c++\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\memory.h(163): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'LONG'
+c:\users\asbj1\documents\c++\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\memory.h(163): warning C4312: 'type cast': conversion from 'LONG' to 'PIMAGE_NT_HEADERS' of greater size
+c:\users\asbj1\documents\c++\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\Functions.h(36): warning C4101: 'result': unreferenced local variable
+c:\users\asbj1\documents\c++\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\Menu.h(36): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asbj1\documents\c++\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\callofdutyghostspcsteammenubase\Menu.h(342): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  8 of 148 functions ( 5.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CallOfDutyGhostsPCSteamMenuBase.vcxproj -> C:\Users\asbj1\Documents\c++\CallOfDutyGhostsPCSteamMenuBase\CallOfDutyGhostsPCSteamMenuBase\x64\Release\codghosts.dll
+  CallOfDutyGhostsPCSteamMenuBase.vcxproj -> C:\Users\asbj1\Documents\c++\CallOfDutyGhostsPCSteamMenuBase\CallOfDutyGhostsPCSteamMenuBase\x64\Release\codghosts.pdb (Full PDB)
